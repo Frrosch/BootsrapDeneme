@@ -1,0 +1,19 @@
+.navbar-custom {
+  background-color: #413f42;
+}
+.navbar-brand {
+  color: #541212;
+}
+.nav-link {
+  color: #fff !important;
+}
+.welcome-paragraph {
+  margin-top: 75px;
+}
+
+.section-two_lists {
+  list-style: none;
+}
+.section-link {
+  text-decoration: none;
+}
